@@ -1,0 +1,16 @@
+  
+
+div>ul{
+    list-style: none;
+    border: 3px solid green;
+    width: 35%;
+    padding: 10px;
+    margin: auto;
+    
+}
+
+h1,h2{
+    text-align: center;
+}
+
+
